@@ -3,3 +3,4 @@ I developed a comprehensive project in power Bi, creating multiple dashboards an
 
 #Dashborad Image
 <a href" https://github.com/larrywalkerwayne/Data-Analysis-Dashborad/blob/main/Screenshot%202025-02-07%20022228.png>View Dashborad</a>
+[Screenshot 2025-02-07 022228] (https://github.com/larrywalkerwayne/Data-Analysis-Dashborad/blob/main/Screenshot%202025-02-07%20022228.png)
